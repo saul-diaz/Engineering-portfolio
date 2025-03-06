@@ -27,5 +27,5 @@ This project implements a **real-time LED matrix display system** controlled via
 | Challenge | Solution |
 |-----------|----------|
 | Managing real-time user input | Optimized **interrupt handling** for PS2 keyboard |
-| Improving LED refresh rate | Used **FastLED library** for efficient rendering |
+| Improving LED refresh rate | Used **RGBmatrixPanel** for efficient rendering |
 | Handling memory constraints | Implemented **buffered updates** to prevent flickering |
