@@ -17,7 +17,7 @@ I am a Computer Engineering student at UCSB with a passion for **embedded system
 ### Personalized Lightbox Display(projects/lightbox-display)
 - **Tech Stack:** Arduino Mega, LED Matrix, PS2 Keyboard
 - **Description:** Designed a **customizable LED display** controlled via keyboard input.
-- **[Project Details](projects/lightbox-display/README.md)** | **[Code](projects/lightbox-display/main.ino)**
+- **[Project Details](projects/lightbox-display/README.md)** 
 
 ##  Contact
 - **Email:** sauld0204@gmail.com  
