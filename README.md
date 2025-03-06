@@ -22,3 +22,4 @@ I am a Computer Engineering student at UCSB with a passion for **embedded system
 ##  Contact
 - **Email:** sauld0204@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/-saul-diaz/    
+- **[View My Resume](SaulDiaz_Resume.pdf)**
