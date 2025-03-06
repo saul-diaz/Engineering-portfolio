@@ -24,6 +24,4 @@ The system integrates **sensor inputs and actuator controls** via UART, SPI, and
 | Debugging & system optimization | Used **oscilloscope & logic analyzer** for testing |
 
 
-## 📷 Images & Diagrams  
-*(If allowed, upload diagrams or circuit schematics!)*  
 
