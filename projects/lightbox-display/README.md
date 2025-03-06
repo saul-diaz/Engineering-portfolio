@@ -16,8 +16,7 @@ This project implements a **real-time LED matrix display system** controlled via
 ✔ **Geometric shape rendering & dynamic animations**  
 ✔ **Efficient memory usage for smooth performance**  
 
-## Images
-![Lightbox Display](images/lightbox-demo.gif)
+
 
 ## Code
 - **Main Logic:** [main.ino](main.ino)
