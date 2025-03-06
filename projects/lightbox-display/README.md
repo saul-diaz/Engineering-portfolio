@@ -1,4 +1,4 @@
-# Personalized Lightbox Display 💡
+# Personalized Lightbox Display 
 
 ## Technologies Used
 - **Microcontroller:** Arduino Mega
