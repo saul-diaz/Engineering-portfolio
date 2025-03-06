@@ -12,12 +12,12 @@ I am a Computer Engineering student at UCSB with a passion for **embedded system
 ### Motorized Door Control System(projects/motorized-door-control)
 - **Tech Stack:** STM32, C++, UART, SPI, I2C
 - **Description:** Developed a **real-time motor control system** integrating various communication protocols.
-- **[Project Details](projects/motorized-door-control/README.md)** | **[Code](projects/motorized-door-control/main.cpp)**
+- **[Project Details](projects/motorized-door-control/README.md)** 
 
 ### Personalized Lightbox Display(projects/lightbox-display)
 - **Tech Stack:** Arduino Mega, LED Matrix, PS2 Keyboard
 - **Description:** Designed a **customizable LED display** controlled via keyboard input.
-- **[Project Details](projects/lightbox-display/README.md)** 
+- **[Project Details](projects/lightbox-display/README.md)** | **[Code](projects/lightbox-display/main.ino)**
 
 ##  Contact
 - **Email:** sauld0204@gmail.com  
