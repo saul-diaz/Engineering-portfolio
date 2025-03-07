@@ -1,7 +1,7 @@
 # Saul Diaz - Engineering Portfolio
 
 ## About Me
-I am a Computer Engineering student at UCSB with a passion for **embedded systems, avionics, and real-time software development**. This portfolio showcases my technical projects and hands-on experience.
+I am a Computer Engineering student at UCSB with a passion for **embedded systems and real-time software development**. This portfolio showcases my technical projects and hands-on experience.
 
 ## Skills 
 - **Languages:** C++, Python, Verilog, MATLAB
